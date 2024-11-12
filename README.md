@@ -28,10 +28,9 @@ Outside of technology,
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+
+
  
 
 
@@ -50,23 +49,23 @@ Outside of technology,
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
+<a href= "https://www.instagram.com/tthecross/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@vapixel_" >
+<a href="https://www.tiktok.com/@theecros" >
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
-<a href="https://www.twitch.tv/valenwerle" >
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+<a href="https://open.spotify.com/playlist/5E6BYCZjCP6LUvCNgIfHKq?si=74774ee3934445d0&pt=3faac811ba7fbac2938304057a42290a" >
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 </a>
-<a href="https://www.youtube.com/@ValenWerle">
+<a href="https://www.youtube.com/@Joaaquin-j1s">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=Thecross27&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Thecross27&theme=material-palenight)](https://github.com/valentinawerle)
 </div>
  <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
